@@ -1,0 +1,41 @@
+/* body{
+    background-color: #0000ff;
+}
+0
+
+h2{
+    text-align: center;
+    color: azure;
+}
+.flex-container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 600px;
+}
+
+.flex-container> div{
+margin: 10px;
+padding: 20px;
+font-size: 30px;
+background-color: brown;
+} 
+
+.grid-container{
+    display: grid;
+    grid-template-rows: 2fr 4fr 2fr 4fr;
+    background-color: rgb(10, 244, 10);
+}
+
+.grid-item{
+    padding: 20px;
+    font-size: 30px;
+    border: 2px solid red;
+    text-align: center;
+}
+
+@media screen and (min-width: 480px) {
+    body{
+        background-color:aqua;
+    }
+} */
